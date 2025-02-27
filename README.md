@@ -7,3 +7,10 @@ Para isso crie uma base de dados Fictícia com as seguintes colunas :
 ![image](https://github.com/user-attachments/assets/a2c70305-6ac6-42d4-aecf-82af3479ccb9)
 
 Logo após a extração desses dados do banco de dados, vamos importá-los para o Power BI para que possamos limpar a planilha e criar os dashboards.
+
+2 - Limpeza dos dados
+Dados antes de serem tratados 
+![image](https://github.com/user-attachments/assets/fe400a82-f3e4-4308-ab03-1ddb243717c9)
+
+Dados tratados 
+![image](https://github.com/user-attachments/assets/6a66d787-b6a3-42f0-9134-77136552ace3)
