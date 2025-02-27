@@ -13,6 +13,7 @@ Dados antes de serem tratados
 ![image](https://github.com/user-attachments/assets/fe400a82-f3e4-4308-ab03-1ddb243717c9)
 
 Dados tratados 
-![image](https://github.com/user-attachments/assets/cda45538-ceb7-42a5-b0ee-50dae4fb6b76)
+![image](https://github.com/user-attachments/assets/2ddc27fb-bdaf-4064-b677-dc7cb367f499)
+
 
 
